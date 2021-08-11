@@ -1,4 +1,5 @@
 # Travel Destinations
 
 A simple app to keep track of destinations I'd like to visit.
-a basic version.
+
+A basic version.
